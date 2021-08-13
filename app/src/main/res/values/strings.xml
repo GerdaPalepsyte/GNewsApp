@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GNewsApp</string>
+    <string name="logo_name">Logo</string>
+
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_news">News</string>
+    <string name="bottom_nav_search">Search</string>
+    <string name="bottom_nav_profile">Profile</string>
+    <string name="bottom_nav_more">More</string>
+</resources>
